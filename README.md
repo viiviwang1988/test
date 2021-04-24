@@ -1,2 +1,2 @@
 # test
-IBM-data science-tool for data science-week 2
+IBM-data science-capstone
